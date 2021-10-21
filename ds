@@ -1,0 +1,77 @@
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Ivan Popenya
+user.email=87383769+IvanPopik05@users.noreply.github.com
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+core.editor=cmd
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.origin.url=https://ivan4554@bitbucket.org/cron-ooo/shapeandcolornback.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+lfs.repositoryformatversion=0
+lfs.https://bitbucket.org/cron-ooo/shapeandcolornback.git/info/lfs.access=basic
+lfs.https://ivan4554@bitbucket.org/cron-ooo/shapeandcolornback.git/info/lfs.locksverify=false
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=1053e696-1ca9-45f0-afd7-136bb07eff24.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=17ee95be-2961-4f43-8bf1-d959df6fc74f.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=83598602-503a-4864-9a9f-6355df3df1b3.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=d70cfa2b-53b1-4d2a-a354-2e1553ec51d1.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=1f8b808e-1ace-4975-8b52-1249c8c5ed28.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=96b3c96c-83f5-442a-ab77-e3cbb036916f.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=5c28a2d1-556c-41bb-ba64-4a678e2df1c4.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=a0e84045-eab5-45f3-824e-d888b659cc78.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=54d6f4da-5875-4266-a852-6b024f65a1ba.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=f444ba98-c00e-4a44-94de-ef02296348a9.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=95598e2c-7522-4180-a34b-a51c88d60141.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=4352076d-937a-42b3-b263-6031950e3589.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=824d0db2-5d0c-4e9d-adb6-a4fcacd08010.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=e007df2e-572c-4311-8295-5df76cf57f6f.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=5892678c-0cf4-40c5-a50d-e500d8e3cb6b.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=f5a5b510-c4e7-4cbe-b79e-08f82b2b10c2.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=30d7e1d5-bb92-4f78-b403-a9ac192a6f58.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=d6a5a0e3-9ab0-4917-9af4-c4b73b9804c1.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=38858256-0f4a-46cf-b7a3-9e797b2b559c.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=115f4806-066a-4e50-991f-91d35dc0e8f5.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=5ae70f30-f189-43b1-82c1-7b12f061af81.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=810b86c6-2664-4fb2-ac7e-77675b2efb63.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=9bf72a08-fb27-4661-b5a1-5d551a848b70.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=99391b73-b997-4b70-acb5-23b96535fabf.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=9c588979-32df-442b-a49e-b999926d56b6.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=f4066d19-ec60-4148-8a3c-bd234e9e921b.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=33b8fdf0-1fc1-40ad-8a9b-7512fc1304c7.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=f5784d4a-8ee5-44f8-bef7-6b722cfe3dfe.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=36312f4d-0f23-4a83-b5e2-220f0e5f9675.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=22d2bbae-cc93-4504-90fd-2fd8da8ffd1d.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=63a93b7f-22fc-4440-ba96-25dce187deb8.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=78a54a65-20d9-4051-924d-b2f6146c8e44.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=e64adb29-f34a-4734-b57e-7569e69536f2.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=447a659e-7303-4f84-9f3c-9d94cdcf1006.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=4985610d-93c6-445c-9208-d00628115cee.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=cb143046-08e9-4d06-9c6e-44118ac5a706.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=a3f7a75c-7981-40c2-be9f-5862a72d35da.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=70bdd62c-99bb-4f18-97f0-2dbe30495458.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=5981bc12-e600-4777-be19-600266886314.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=ce96ade4-e87c-4745-bf93-98e4afd08883.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=b01b1dc7-112a-49af-a200-beffe1146f5b.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=a18e2c81-beab-4e1e-bd65-3642b858a747.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=b87f5750-48fb-4ecc-bb35-5cb6adea1f6e.access=basic
+lfs.https://bitbucket.org/%7B%7D/%7B1299e7eb-3168-479b-8565-09cb4dfc0c14%7D/info/lfs/object/verify?upload_id=317f1185-6095-4b1e-8bf2-031c321042af.access=basic
+lfs.https://bitbucket.org/
